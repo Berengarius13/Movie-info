@@ -1,4 +1,4 @@
-<img src="C:\Users\Piyush\3D Objects\Web Developement\Movie-info\custom\logo.png" style="zoom:80%;" />
+<img src="custom/logo.png" style="zoom:80%;" />
 
 ### What is this site? 
 
