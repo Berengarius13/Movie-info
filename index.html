@@ -6,8 +6,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MovieFind</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
-    
+<!--Navigation bar-->
+    <nav class="navbar navbar-default">  <!-- Here we divide navigation section in division of division-->
+        <div class="container">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="index.html">MovieInfo</a>
+          </div>
+        </div>
+    </nav>
+<!--Search bar-->
+    <div class="container"><!--Search bar funcionality is added here-->
+    	<div class="jumbotron">
+	    	<h3 class="text-center">Search For Any Movie</h3>
+	    	<form id="searchForm"><!--We use html form and intput type text to get input from user-->
+	    		<input type="text" class="form-control" id="searchText" placeholder="Search Movies...">
+	    	</form>
+	    </div>
+
+    </div>
+<!--Container for movie-->
+    <div class="container">
+      <div id="movies" class="row"></div>
+    </div>
+
+    <script src="js/main.js"></script>
 </body>
 </html>
+<!--Learn enough and apply!!!-->
+<!--Element is object that sits on page and Attribute provides further details -->
+<!--"Div" element is used to structure page or group and used with class and id to edit css of that particular section -->
+<!--"Nav" element represents secion of page whose purpose is to provide seacion link -->
+<!--"Class" is a global atribute used as a "selector" for CSS and JavaScript, used to select specific element -->
+<!--Typical naming convention of bootstarp is used-->
+<!--The id global attribute defines an identifier (ID) which must be unique in the whole document. Its purpose is to identify the element when linking-->
+<!--STUDY THE LAYOUT WITH BERKPOINTS AND CONTAINERS -->
