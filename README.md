@@ -1,4 +1,3 @@
-<img src="custom/logo.png" style="zoom:80%;" />
 
 ### What is this site? 
 
