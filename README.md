@@ -1,18 +1,6 @@
 <img src="/custom/logo.png" alt="z" style="zoom:80%;" />
 
-### What is this application? 
-
-This site allows user to quickly search any movie, anime, series etc. and get very basic info on it. 
-
-
-
-### How was it created? 
-
-- HTML;
-- CSS;
-- JavaScript;
-- JQuery;
-- And [OMDb API. ](http://www.omdbapi.com/)
+Discover and explore movies, anime, series, and more on our site. Created with HTML, CSS, JavaScript, jQuery, and the OMDb API, providing quick and basic information at your fingertips.
 
 ### How to run this application? 
 
