@@ -19,7 +19,7 @@ This site allows user to quickly search any movie, anime, series etc. and get ve
 1. Clone the repository. 
 
    ```
-   $ git clone https://github.com/mjulialobo/Findamovie
+   $ git clone https://github.com/Berengarius13/Movie-info
    ```
 
 2. Run using any liver server. 
